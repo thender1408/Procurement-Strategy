@@ -3,11 +3,11 @@
 This project analyzes procurement data using the Kraljic Matrix segmentation and evaluates key supplier risk across several performance dimensions, including on-time delivery, quality (defect rate), and cost variance. A visual summary is presented through an interactive Tableau dashboard, while a detailed report outlines supplier segmentation, risk mitigation strategies, and performance observations.
 
 ### 📊 Visual Summary
-- **Tableau Dashboard**: [Procurement and Supply Strategy Dashboard](link_to_tableau_public_if_published)  
+- **Tableau Dashboard**: [Procurement and Supply Strategy Dashboard]([link_to_tableau_public_if_published](https://public.tableau.com/views/ProcurementandSupply-ChainStrategy/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
   _You can also download the dashboard from the `.twbx` file in this repo._
 
 ### 📄 Report
-- **[Strategic Supplier Risk Analysis report](./Strategic%20Supplier%20Risk%20Analysis%20report.docx)**  
+- **[Strategic Supplier Risk Analysis report]([./Strategic%20Supplier%20Risk%20Analysis%20report.docx](https://docs.google.com/document/d/15XPLDQgaygHcv8lYbMizBWJABBWXUgsE/edit?usp=sharing&ouid=101901284870012653058&rtpof=true&sd=true))**  
   A full business analysis report highlighting key findings and actionable risk mitigation strategies.
 
 ### 📁 Files Included
