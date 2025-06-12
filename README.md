@@ -1,28 +1,24 @@
-# Strategic Supplier Risk Report
+## Strategic Supplier Risk & Procurement Analysis
 
-This project analyzes supplier performance and risk using a Tableau workbook titled **Procurement and Supply-Chain Strategy**. The goal is to identify key suppliers, assess risks across categories (strategic, leverage, bottleneck), and recommend mitigation strategies for high-risk dependencies.
+This project analyzes procurement data using the Kraljic Matrix segmentation and evaluates key supplier risk across several performance dimensions, including on-time delivery, quality (defect rate), and cost variance. A visual summary is presented through an interactive Tableau dashboard, while a detailed report outlines supplier segmentation, risk mitigation strategies, and performance observations.
 
-## 🔍 Key Insights
+### 📊 Visual Summary
+- **Tableau Dashboard**: [Procurement and Supply Strategy Dashboard](link_to_tableau_public_if_published)  
+  _You can also download the dashboard from the `.twbx` file in this repo._
 
-- **High-impact suppliers** (e.g., lithium batteries, rare earth materials) are single-sourced and pose major disruption risk.
-- **Delivery reliability** and **cost variance** are performance concerns, especially for strategic items with long lead times.
-- **Geopolitical exposure** to China and other regions heightens risk, particularly for bottleneck and strategic supplies.
-- Recommendations include:
-  - Dual sourcing of critical items
-  - Inventory buffers for long-lead parts
-  - Proactive supplier risk monitoring
-  - Regional diversification and mapping multi-tier dependencies
+### 📄 Report
+- **[Strategic Supplier Risk Analysis report](./Strategic%20Supplier%20Risk%20Analysis%20report.docx)**  
+  A full business analysis report highlighting key findings and actionable risk mitigation strategies.
 
-## 📁 Files
+### 📁 Files Included
+- `Procurement and Supply-Chain Strategy.twbx` – Tableau workbook with dashboards.
+- `Strategic Supplier Risk Analysis report.docx` – Full narrative and risk insights.
+- `raw_data.xlsx` – Raw data source used for analysis (optional if available).
 
-- `Strategic_Supplier_Risk_Report.pdf`: Full professional write-up
-- `Procurement and Supply-Chain Strategy.twbx`: Tableau dashboard workbook used for analysis
-- Optional: Summary charts and visual references
+### 🧠 Key Insights
+- Strategic suppliers (e.g., sole-source battery and chipset providers) present high risk due to dependency and long lead times.
+- Bottleneck items sourced from geopolitically sensitive regions raise concern for rare earth metals.
+- Leverage suppliers (e.g., steel providers) offer cost stability but must still be monitored for spend concentration.
+- Recommendations include dual sourcing, inventory buffers, supplier risk tracking, and regional diversification.
 
-## 📊 Tools Used
-
-- **Tableau Desktop** for visualizing supplier segmentation (Kraljic Matrix, risk heatmaps, etc.)
-- **Excel** for raw data inspection
-- **Markdown** and PDF for final documentation
-
----
+> This project demonstrates procurement risk assessment and visualization as part of a larger supply chain strategy initiative.
